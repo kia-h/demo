@@ -1,0 +1,14 @@
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.deps.json
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.json
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.dev.json
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.dll
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\bin\Debug\netcoreapp2.2\demo.pdb
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.csprojAssemblyReference.cache
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.csproj.CoreCompileInputs.cache
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cache
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cs
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfoInputs.cache
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfo.cs
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.RazorTargetAssemblyInfo.cache
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.dll
+C:\Users\kia.heydari\PRACS\c#P\demo-web-app\demo\obj\Debug\netcoreapp2.2\demo.pdb
